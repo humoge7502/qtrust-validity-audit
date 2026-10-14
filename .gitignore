@@ -1,0 +1,30 @@
+﻿# LaTeX build intermediates
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+main.pdf.tmp
+_*.aux
+
+# audit byproducts written into the audited repo by the experiments
+_loo_fold*.pt
+_audit_clean_base.pt
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# notes
+scratch/
+*.tmp
