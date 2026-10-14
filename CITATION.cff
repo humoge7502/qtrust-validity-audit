@@ -1,0 +1,16 @@
+﻿cff-version: 1.2.0
+message: "If you use this artifact, please cite the accompanying paper."
+title: "Provenance Labelling Is Not Evaluative Validity: A Reproducibility Audit of Two Post-Quantum Cryptography Migration Benchmarks"
+abstract: "An audit of two PQC migration benchmarks identifying eight independent failures of evaluative validity, each with a cheap detection check."
+type: software
+authors:
+  - family-names: Puri
+    given-names: Krishna
+license: MIT
+repository-code: "https://github.com/[ANONYMIZED]"
+keywords:
+  - reproducibility
+  - construct validity
+  - data leakage
+  - post-quantum cryptography
+  - artifact evaluation
